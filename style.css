@@ -1,0 +1,27 @@
+
+
+.score-board {
+    border: .25em solid rgb(241, 7, 7);
+    border-radius: .25em;
+    background-color: #444647;
+    height: 50vh;
+    color: white;
+}
+
+.big-font {
+    font-size: 100px;
+}
+
+.home-button {
+    background: #444647;  
+    transition: all .3s linear;  
+}
+
+.away-button {
+    background-color: #da9022;
+    transition: all .3s linear;
+}
+
+.hover-button {
+    transform: translateY(-8x);
+}
